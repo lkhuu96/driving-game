@@ -7,17 +7,17 @@ img {
 }
 
 .right {
-  transform: rotate(0);
+  transition-duration: 500ms;
 }
 
 .down {
-  transform: rotate(90deg);
+  transition-duration: 500ms;
 }
 
 .left {
-  transform: rotate(180deg);
+  transition-duration: 500ms;
 }
 
 .up {
-  transform: rotate(270deg);
+  transition-duration: 500ms;
 }
