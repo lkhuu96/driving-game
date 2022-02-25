@@ -4,6 +4,7 @@ body {
 
 img {
   width: 20%;
+  transform: rotate(0);
 }
 
 .right {

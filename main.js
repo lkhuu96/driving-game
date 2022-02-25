@@ -7,6 +7,7 @@ document.addEventListener('keydown', function (event) {
   if (event.key === 'ArrowUp') {
     $car.setAttribute('data-view', 'up');
     data.view = 'up';
+    $car.style = '';
     $car.className = 'up';
   } else if (event.key === 'ArrowDown') {
     $car.setAttribute('data-view', 'down');
