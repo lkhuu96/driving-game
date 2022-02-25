@@ -1,5 +1,5 @@
 /* exported data */
 var data = {
-  view: '',
+  view: 'right',
   previousView: ''
 };

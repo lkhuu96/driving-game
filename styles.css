@@ -8,16 +8,20 @@ img {
 
 .right {
   transition-duration: 500ms;
+  transform: rotate(0deg);
 }
 
 .down {
   transition-duration: 500ms;
+  transform: rotate(90deg);
 }
 
 .left {
   transition-duration: 500ms;
+  transform: rotate(180deg);
 }
 
 .up {
   transition-duration: 500ms;
+  transform: rotate(270deg);
 }
